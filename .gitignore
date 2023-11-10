@@ -1,0 +1,9 @@
+source
+segment_txt
+segment
+target
+venv
+ffmpeg
+*.iml
+*.wav
+.idea
